@@ -1,8 +1,12 @@
+<!-- Title -->
+
 <h1 align="center">Hi there, I'm Jorge Carmona 👋</h1>
 
 <p align="center">
   Software Developer in Training • Mechatronics Engineering Student
 </p>
+
+<!-- Socials -->
 
 <p align="center">
   <a href="[LINKEDIN]" target="_blank">
@@ -10,51 +14,77 @@
   </a>
 </p>
 
-## 🚀 About Me
+---
 
-I'm a Software Developer in training and a Mechatronics Engineering student.
+<h2 align="center">🚀 About Me</h2>
 
-I enjoy building projects, solving problems, and continuously learning new technologies. Currently, I'm improving my software development skills through Riwi projects while also advancing in my Mechatronics Engineering studies.
+<p align="center">
+  I'm a Software Developer in training and a Mechatronics Engineering student.
+</p>
 
-My goal is to combine software, automation, and technology to create innovative solutions and continue growing as a developer and future engineer.
+<p align="center">
+  I enjoy building projects, solving problems, and continuously learning new technologies.
+</p>
+
+<p align="center">
+  Currently, I'm improving my software development skills through Riwi projects while also advancing in my Mechatronics Engineering studies.
+</p>
+
+<p align="center">
+  My goal is to combine software, automation, and technology to create innovative solutions and continue growing as a developer and future engineer.
+</p>
 
 ---
 
-## 📚 Currently Learning
+<h2 align="center">📚 Currently Learning</h2>
+
+<br>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
 ### 💻 Software Development
 
-- Python
-- HTML & CSS
-- JavaScript
-- C++
-- Git & GitHub
-- Linux
+- Python  
+- HTML & CSS  
+- JavaScript  
+- C++  
+- Git & GitHub  
+- Linux  
+
+</td>
+
+<td valign="top" width="50%">
 
 ### 🤖 Mechatronics & Automation
 
-- Microcontrollers
-- Industrial Automation
-- Control Systems
-- Electrical Circuits
-- Electronics
+- Microcontrollers  
+- Industrial Automation  
+- Control Systems  
+- Electrical Circuits  
+- Electronics  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Interests
+<h2 align="center">🎯 Interests</h2>
 
-- 🎮 Videogames
-- 🎵 Music
-- 🎬 Cinema
-- 🐾 Animals
-- 🤖 Technology & Automation
+<p align="center">
+🎮 Videogames • 🎵 Music • 🎬 Cinema • 🐾 Animals • 🤖 Technology & Automation
+</p>
 
 ---
 
-## 📈 GitHub Goals
+<h2 align="center">📈 GitHub Goals</h2>
 
-- Improve my development skills
-- Build real-world projects
-- Learn new technologies
-- Contribute to interesting projects
-- Grow as a software developer
+<p align="center">
+Improve my development skills • Build real-world projects • Learn new technologies
+</p>
+
+<p align="center">
+Contribute to interesting projects • Grow as a software developer
+</p>
