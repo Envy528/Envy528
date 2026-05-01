@@ -1,27 +1,60 @@
-# Hi there! 👋
+<h1 align="center">Hi there, I'm Jorge Carmona 👋</h1>
 
-### About me
+<p align="center">
+  Software Developer in Training • Mechatronics Engineering Student
+</p>
 
-I'm **Jorge Carmona**. I'm a **Software Developer in training** and a **Mechatronic Engineer in formation**. I love learning new things.
+<p align="center">
+  <a href="[LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-I'm currently working on Riwi Projects; Riwi is where I'm learning to be an excellent Software Dev. And I'm working on my Mechatronics Engineer career too, I look forward to know more about my career and get certifications to be a great engineer.
+## 🚀 About Me
 
-I'm passionate about **videogames, music, cinema and animals**!
+I'm a Software Developer in training and a Mechatronics Engineering student.
 
+I enjoy building projects, solving problems, and continuously learning new technologies. Currently, I'm improving my software development skills through Riwi projects while also advancing in my Mechatronics Engineering studies.
 
+My goal is to combine software, automation, and technology to create innovative solutions and continue growing as a developer and future engineer.
 
+---
 
-<!--
-**Envy528/Envy528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Currently Learning
 
-Here are some ideas to get you started:
+### 💻 Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- HTML & CSS
+- JavaScript
+- C++
+- Git & GitHub
+- Linux
+
+### 🤖 Mechatronics & Automation
+
+- Microcontrollers
+- Industrial Automation
+- Control Systems
+- Electrical Circuits
+- Electronics
+
+---
+
+## 🎯 Interests
+
+- 🎮 Videogames
+- 🎵 Music
+- 🎬 Cinema
+- 🐾 Animals
+- 🤖 Technology & Automation
+
+---
+
+## 📈 GitHub Goals
+
+- Improve my development skills
+- Build real-world projects
+- Learn new technologies
+- Contribute to interesting projects
+- Grow as a software developer
